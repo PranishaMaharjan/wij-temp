@@ -22,7 +22,11 @@ function App() {
               employers who have achieved their goals with our streamlined visa
               and employment solutions.
             </p>
-            <h1 className="font-bold text-3xl">Website Coming Soon!!!</h1>
+            <h1 className="font-bold text-3xl leading-normal">
+              <span>Website Coming Soon on:</span>
+              <br />
+              25th April, 2025
+            </h1>
           </div>
 
           <div className="relative hidden lg:block w-[729px] h-[604px]">
